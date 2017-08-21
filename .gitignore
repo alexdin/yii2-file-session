@@ -1,0 +1,9 @@
+# SublimeText project files
+/*.sublime-project
+
+# Windows image file caches
+Thumbs.db
+
+.idea
+/composer.lock
+/vendor
