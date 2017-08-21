@@ -1,5 +1,5 @@
 # yii2-file-session
-This is an expanding class of web sessions. This class supports retrieving data on session id and deleting it.
+PHP Yii2. This is an expanding class of web sessions . This class supports retrieving data on session id and deleting it.
 
 Installation
 ------------
