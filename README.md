@@ -6,6 +6,12 @@ Installation
 ```
 php composer.phar require --prefer-dist alexdin/yii2-file-session
 ```
+or add
+
+```json
+"alexdin/yii2-file-session":"^0.0.1"
+```
+
 Configure 
 -----
 Configure file session
