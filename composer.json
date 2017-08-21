@@ -1,0 +1,21 @@
+{
+  "name":"alexdin/yii2-file-session",
+  "description": "Extention Class for Yii2 File Session based on yii/web/Session",
+  "keywords": ["yii2","session","alexdin","file-session","multi-session"],
+  "support": {
+    "source": "https://github.com/alexdin/yii2-file-session"
+  },
+  "authors": [
+    {
+      "name":"Alexey Dinachuk",
+      "email": "mralexdin@gmail.com"
+    }
+  ],
+  "require": {
+    "php":"^5.6 || ^7.0",
+    "yiisoft/yii2": "~2.0.4"
+  },
+  "autoload": {
+    "psr-4": { "alexdin\\file-session\\": "" }
+  },
+}
