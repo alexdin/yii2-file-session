@@ -13,7 +13,7 @@ add this string to components in config main.php file (main-local.php).
 ```php
  'session' => [
              // this is the name of the session cookie used for login on the backend
-             'class'=>'alexdin\file-session',
+             'class'=>'alexdin\file-session\Session',
              'name' => 'session-name',
              // dir for your path session
              // create migrate if dir is not exists or use "mkdir" function
