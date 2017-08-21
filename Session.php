@@ -6,6 +6,7 @@
  * Time: 22:43
  */
 
+namespace alexdin\filesession;
 
 class Session extends \yii\web\Session
 {
